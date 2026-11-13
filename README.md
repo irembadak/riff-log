@@ -4,7 +4,9 @@
 
 ## Ekran Görüntüsü
 
-![RiffLog Uygulama Önizlemesi](./screenshots/preview.png)
+![RiffLog Metronom ve İstatistikler](./screenshots/preview1.png)
+
+![RiffLog Repertuvar ve Pratik Kartları](./screenshots/preview2.png)
 
 ## Öne Çıkan Özellikler
 
