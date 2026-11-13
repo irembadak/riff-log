@@ -1,5 +1,9 @@
 # RiffLog — Müzik Pratiği & Repertuvar Tempo Takipçisi
 
+## Canlı Demo
+
+Uygulamayı tarayıcıda doğrudan deneyimlemek için: **[RiffLog Canlı Uygulama](https://riff-log-six.vercel.app/)**
+
 **RiffLog**, müzisyenlerin ve gitaristlerin çalıştıkları parçaları, teknik egzersizleri, akort düzenlerini ve hedef tempo (BPM) ilerlemelerini düzenli şekilde takip etmelerini sağlayan; dahili stüdyo metronomu ve pratik kronometresi barındıran modern bir web uygulamasıdır.
 
 ## Ekran Görüntüsü
